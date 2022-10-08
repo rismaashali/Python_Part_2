@@ -103,7 +103,7 @@ to execute program if expression is true
 # List Comprehension
 - List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
-# Error Handling
+# Error in Python
 ## Syntax Errors
 - Python doesn't understand of the command
 - Usually happens when you start studying
